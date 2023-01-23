@@ -1,8 +1,15 @@
 ### Hi there 👋  Welcome Home
-## it's a good opportnuity to see you here ! 
+## it's a good opportunity to see you here !
+I am a java software engineer. I love programming, reading, writing and speaking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+As a software engineer, i like analysis ,design develope ,product and montaine a high preformence software that give the clients
+
+what they are need with important Quality Factors.
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+### some Personal Stuffs:
+- 👨‍🎓 I'm a ** Master In intelligents and Mobile Systems Student**
+- 🌱 I’m currently learning about java Software Engineering
+- 🔭 I’m currently working at [ALTEN Maroc - Engineering & IT Services](https://www.alten.ma/) 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
