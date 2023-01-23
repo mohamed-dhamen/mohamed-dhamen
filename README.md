@@ -33,8 +33,8 @@ what they are need with importants Quality Factors.
   ### 🧰 Frameworks 
 <p>
     <a href="#"><img alt="Eclips" src="images/eclips.png" width="10%" height="10%"></a>
-    <a href="#"><img alt="Intelij IDE" src="images/intelijIde"></a>
-    <a href="#"><img alt="Android studio "src="images/androidStudio.png"></a>
+    <a href="#"><img alt="Intelij IDE" src="images/intelijIde"  width="10%" height="10%" ></a>
+    <a href="#"><img alt="Android studio "src="images/androidStudio.png"  width="10%" height="10%"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
