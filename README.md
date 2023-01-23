@@ -21,7 +21,7 @@ what they are need with importants Quality Factors.
 
 ### 👨‍💻 Programming languages
 <p>
-    <a href="#"><img alt="C" src="https://icons8.com/icon/90519/spring-boot"></a>
+    <a href="#"><img alt="spring" src="https://icons8.com/icon/90519/spring-boot"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -33,7 +33,7 @@ what they are need with importants Quality Factors.
   ### 🧰 Frameworks and libraries
   
   <p>
-    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Spring" src=""></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
