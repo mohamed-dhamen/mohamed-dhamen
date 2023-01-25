@@ -7,7 +7,7 @@ As a software engineer, i like analysis ,design develope ,product and montaine a
 what they are need with importants Quality Factors.
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 ### some Personal Stuffs:
-- 👨‍🎓 I'm a **Master In intelligents and Mobile Systems Student**
+- 👨‍🎓 I'm a **Master's student in intelligent and mobile systems**
 - 🌱 I’m currently learning about java Software Engineering
 - 🔭 I’m currently working at [ALTEN Maroc - Engineering & IT Services](https://www.alten.ma/) 
 - 👯 I’m looking to collaborate on java software projects using Java Technologies
