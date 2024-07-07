@@ -33,10 +33,11 @@ what they are need with importants Quality Factors.
   
   ### 🧰 Frameworks 
 <p>
+    <a href="#"><img alt=">.NET" src="https://img.shields.io/badge/.NET-512BD4?.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Anguler" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
-    <a href="#"><img alt=">.NET" src="https://img.shields.io/badge/.NET-512BD4?.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+    
 </p>
 
 ### 🗄️ Databases
