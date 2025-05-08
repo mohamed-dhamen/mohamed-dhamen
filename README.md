@@ -10,12 +10,15 @@ With experience in building web, desktop, and cloud-based applications, I take p
 
 ### 👨‍💻 A bit about me:
 - 🎓 Holder of a **Master’s in Intelligent and Mobile Systems**
-- 💼 Currently working at **[ALTEN Maroc - Engineering & IT Services](https://www.alten.ma/)** as a .NET Consultant
+- 💼 Currently working at **[ALTEN Maroc - Engineering & IT Services](https://www.alten.ma/)** as a .NET Consultant & Technical Pilot
 - ☁️ Specialized in **.NET (C#), ASP.NET Core, Web API, Entity Framework**, and **Azure (App Services, Azure DevOps, Functions, and more)**
-- 🔄 Experienced with **microservices architecture**, **CI/CD pipelines**, **Docker**, and **Azure SQL**
-- 👯 Open to collaborating on **.NET, Azure, and cloud-based enterprise solutions**
-- 🧠 Always learning: from software architecture to DevOps practices and clean code principles
-- 💬 Passionate about mentoring and sharing knowledge on clean architecture, SOLID principles, and modern development practices
+- 🧠 Strong technical leadership: code reviews, mentorship, and solution architecture
+- 🔄 Hands-on experience with **microservices**, **CI/CD**, **Docker**, **SQL Server**, and **Azure Queues**
+- 🚀 Built and led mission-critical modules like **PowerTools Interface and Fixation**, boosting system performance by **60%**
+- 🧹 Clean Code advocate using **unit testing**, **SOLID principles**, and **evolutionary architecture**
+- 🤝 Fluent communicator with international teams (France, India, Morocco)
+- 📈 Contributed to strategic technical decisions and ensured continuity after senior lead transition
+- 🧠 Always learning new tech: DevOps, cloud security, and modern architectures
 
 ---
 
@@ -27,6 +30,8 @@ With experience in building web, desktop, and cloud-based applications, I take p
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ### 🧰 Frameworks & Libraries
@@ -35,6 +40,7 @@ With experience in building web, desktop, and cloud-based applications, I take p
     <img alt="ASP.NET Core" src="https://img.shields.io/badge/asp.net%20core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
     <img alt="Entity Framework" src="https://img.shields.io/badge/EntityFramework-6DB33F.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -42,6 +48,7 @@ With experience in building web, desktop, and cloud-based applications, I take p
     <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
     <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
@@ -50,6 +57,15 @@ With experience in building web, desktop, and cloud-based applications, I take p
     <img alt="Azure SQL" src="https://img.shields.io/badge/Azure%20SQL-0078D4.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
     <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Cosmos DB" src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0062AD?style=for-the-badge&logo=azurecosmosdb&logoColor=white"/>
+</p>
+
+### 🔐 Security & Identity
+<p>
+    <img alt="ASP.NET Identity" src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img alt="Azure Entra ID" src="https://img.shields.io/badge/Azure%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img alt="OpenID" src="https://img.shields.io/badge/OpenID-orange?style=for-the-badge&logo=openid&logoColor=white"/>
 </p>
 
 ### 💻 Tools I Use
@@ -63,5 +79,16 @@ With experience in building web, desktop, and cloud-based applications, I take p
 
 ---
 
+## 🌍 Languages
+- 🇲🇦 Arabic (Native)
+- 🇫🇷 French (Professional)
+- 🇬🇧 English (Professional)
+
+---
+
 📫 **Let’s connect and build something great!**  
 Feel free to reach out or collaborate on any .NET or Azure project!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhamen-3b8b64220)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed-dhamen)
+[![Email](https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.dhamen@outlook.com)
