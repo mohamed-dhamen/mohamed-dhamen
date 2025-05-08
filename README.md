@@ -14,11 +14,10 @@ With experience in building web, desktop, and cloud-based applications, I take p
 - ☁️ Specialized in **.NET (C#), ASP.NET Core, Web API, Entity Framework**, and **Azure (App Services, Azure DevOps, Functions, and more)**
 - 🧠 Strong technical leadership: code reviews, mentorship, and solution architecture
 - 🔄 Hands-on experience with **microservices**, **CI/CD**, **Docker**, **SQL Server**, and **Azure Queues**
-- 🚀 Built and led mission-critical modules like **PowerTools Interface and Fixation**, boosting system performance by **60%**
 - 🧹 Clean Code advocate using **unit testing**, **SOLID principles**, and **evolutionary architecture**
-- 🤝 Fluent communicator with international teams (France, India, Morocco)
+- 🤝 Fluent communicator with international teams 
 - 📈 Contributed to strategic technical decisions and ensured continuity after senior lead transition
-- 🧠 Always learning new tech: DevOps, cloud security, and modern architectures
+- 🧠 Always learning new tech: DevOps, cloud, AI , and modern architectures,
 
 ---
 
@@ -90,5 +89,3 @@ With experience in building web, desktop, and cloud-based applications, I take p
 Feel free to reach out or collaborate on any .NET or Azure project!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhamen-3b8b64220)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed-dhamen)
-[![Email](https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.dhamen@outlook.com)
